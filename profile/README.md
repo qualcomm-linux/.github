@@ -4,7 +4,7 @@ QuIC is a wholly owned subsidiary of **Qualcomm Technologies, Inc.**, focused on
 
 Head over to Qualcomm Technologies GitHub page to learn more about our organizations and repositories: [github.com/Qualcomm](https://github.com/qualcomm)
 
-Explore our Linux offering for IoT development based on Yocto, LTS Kernel and multi-SoCs support at our website: [qualcomm.com/developer/software/qualcomm-linux](https://www.qualcomm.com/developer/software/qualcomm-linux)
+Explore our Linux offering for IoT development based on Yocto Project, LTS Kernel and multi-SoCs support at our website: [qualcomm.com/developer/software/qualcomm-linux](https://www.qualcomm.com/developer/software/qualcomm-linux)
 
 ## Sound Interesting?
 
