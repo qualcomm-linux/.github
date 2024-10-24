@@ -6,6 +6,4 @@ Head over to Qualcomm Technologies GitHub page to learn more about our organizat
 
 Explore our Linux offering for IoT development based on Yocto Project, LTS Kernel and multi-SoCs support at our website: [qualcomm.com/developer/software/qualcomm-linux](https://www.qualcomm.com/developer/software/qualcomm-linux)
 
-## Sound Interesting?
-
-Check out our main GitHub org at [github.com/quic](http://github.com/quic) and join our developer community at Discord: [discord.gg/qualcommdevelopernetwork](https://discord.gg/qualcommdevelopernetwork). Considering a career at QuIC? Start [here](https://www.qualcomm.com/company/careers).
+Join our **Discord** community to directly engage with Qualcomm experts, connect with other developers working with Qualcomm technology, and stay updated on the latest developer-focused news and product demos: [discord.com/invite/QualcommDeveloperNetwork](https://discord.com/invite/qualcommdevelopernetwork)
