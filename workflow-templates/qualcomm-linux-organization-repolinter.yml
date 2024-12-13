@@ -1,4 +1,4 @@
-name: QuIC Organization Repolinter
+name: Qualcomm Linux Organization Repolinter
 
 on:
   push:
