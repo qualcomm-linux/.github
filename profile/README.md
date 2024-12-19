@@ -1,4 +1,4 @@
-![Qualcomm Linux logo](https://raw.githubusercontent.com/qualcomm-linux/.github/main/profile/qualcomm-linux.png)
+![Qualcomm Linux logo](https://raw.githubusercontent.com/qualcomm-linux/.github/main/profile/qualcomm_linux_logo.jpg)
 
 **Qualcomm® Linux** is a suite of software, tools, and resources intended for Qualcomm IoT platforms to support the development of a wide range of applications and products, with a focus on accelerating solutions through advanced artificial intelligence.
 
