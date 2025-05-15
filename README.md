@@ -21,3 +21,14 @@ Qualcomm Linux repos should enable the Repolinter GitHub Action upon creation. T
 When the GitHub Action is run, it first checks your Qualcomm Linux repo for a local `repolint.json` file at the root directory. If it doesn't find one it'll use the default Qualcomm Linux Repolinter ruleset, which is located here https://github.com/quic/.github/blob/main/repolint.json
 
 To customize the default Qualcomm Linux repolinter ruleset (e.g. to add some language specific file extensions for the license check), copy the `repolint.json` file (from https://github.com/quic/.github/blob/main/repolint.json) and place it at the root of your Qualcomm Linux repo. Now you can edit and tweak it as applicable.
+
+## Preflight Checker Workflow
+
+This workflow utilizes a reusable workflow to run a series of preflight checks on your code. The checks include:
+* **[Repolinter](https://github.com/qualcomm-linux/qli-actions)**: Checks the repository for consistency and adherence to coding standards.
+* **[Semgrep](https://github.com/qualcomm-linux/qli-actions)**: Runs a static analysis tool to detect potential security vulnerabilities and coding errors.
+* **[Copyright-License-Detector](https://github.com/qualcomm/copyright-license-checker-action)**: Checks for proper copyright and licensing information in the code.
+* **[PR-Check-Emails](https://github.com/qualcomm/commit-emails-check-action)**: Verifies that the commit emails are properly formatted.
+
+Preflight Checker workflow is available at: [preflight-checker](https://github.com/qualcomm-linux/preflight-checker-workflow)
+Reusable workflow is available at: [multi-checker-pipeline](https://github.com/qualcomm-linux/multi-checker-pipeline/blob/main/.github/workflows/checker.yml)

@@ -1,0 +1,5 @@
+{
+    "name": "QLI Preflight Checker Workflow",
+    "description": "Workflow utilizes a reusable workflow to run a series of preflight checks on your code.",
+    "iconName": "checker"
+}
