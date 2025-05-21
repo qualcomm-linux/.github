@@ -30,5 +30,5 @@ This workflow utilizes a reusable workflow to run a series of preflight checks o
 * **[Copyright-License-Detector](https://github.com/qualcomm/copyright-license-checker-action)**: Checks for proper copyright and licensing information in the code.
 * **[PR-Check-Emails](https://github.com/qualcomm/commit-emails-check-action)**: Verifies that the commit emails are properly formatted.
 
-Preflight Checker workflow is available at: [preflight-checker](https://github.com/qualcomm-linux/preflight-checker-workflow)
-Reusable workflow is available at: [multi-checker-pipeline](https://github.com/qualcomm-linux/multi-checker-pipeline/blob/main/.github/workflows/checker.yml)
+Reusable workflow is available at: [multi-checker-pipeline](https://github.com/qualcomm-linux/qli-actions/.github/workflows/multi-checker.yml)
+If you want to disable any checker for example semgrep, you can set `semgrep: false` in the `with` section of the workflow. Default value is `true` for all checkers.
