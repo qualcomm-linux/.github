@@ -1,9 +1,9 @@
 name: preflight-checkers 
 on:
   pull_request:
-    branches: ["main", "master"]
+    branches: [ $default-branch ]
   push:
-    branches: ["main", "master"]
+    branches: [ $default-branch ]
   workflow_dispatch:
 
 jobs:
