@@ -1,6 +1,6 @@
 name: preflight-checkers 
 on:
-  pull_request:
+  pull_request_target:
     branches: [ $default-branch ]
   push:
     branches: [ $default-branch ]
