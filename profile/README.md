@@ -1,8 +1,8 @@
 ![Qualcomm Linux logo](https://raw.githubusercontent.com/qualcomm-linux/.github/main/profile/qualcomm_linux_logo.jpg)
 
-**Qualcomm® Linux** is a suite of software, tools, and resources intended for Qualcomm IoT platforms to support the development of a wide range of applications and products, with a focus on accelerating solutions through advanced artificial intelligence.
+**Qualcomm® Linux** is a suite of software, tools, and resources intended for Qualcomm platforms to support the development of a wide range of applications and products.
 
-Explore our Linux offering for IoT development based on Yocto Project, LTS Kernel and multi-SoCs support at our website: [qualcomm.com/developer/software/qualcomm-linux](https://www.qualcomm.com/developer/software/qualcomm-linux)
+Explore our Linux offering for development based on the Yocto Project, Debian, LTS Kernels and multiple SoC support at our website: [qualcomm.com/developer/software/qualcomm-linux](https://www.qualcomm.com/developer/software/qualcomm-linux)
 
 At **Qualcomm Technologies, Inc.**, we transform how the world connects, computes and communicates. We are on a journey to embrace open source, its upstream contribution model and industry standards to make it easy for developers to innovate, build and scale.
 
